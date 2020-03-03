@@ -335,7 +335,7 @@ pt_BR:
       join_moderator: Todos os usuários acessam a sala como moderadores
       mute: Usuários entram em mudo
       require_approval: Solicitar aprovação do moderador antes de entrar na sala
-      start: Permitir que qualquer usuário inicie esta sala
+      start: Permitir que qualquer usuário inicie esta salaalex..
       footer_text: Você pode editar as configurações da sala a qualquer momento.
     rename_room:
       name_placeholder: Digite o novo nome da sala...
@@ -365,7 +365,7 @@ pt_BR:
     all_recordings: Gravações
     email: Enviar link da gravação por e-mail
     error: "Ocorreu um erro ao recuperar %{count} gravações"
-    no_recordings: "Esta sala não possui %{inject} gravações."
+    no_recordings: "Esta sala não possui gravação %{inject}"
     no_user_recordings: Você não possui gravações.
     no_matched_recordings: "Nenhuma gravação corresponde à sua busca %{inject}."
     recorded_on: "Gravado em %{date}"
@@ -377,8 +377,8 @@ pt_BR:
       visibility: Visibilidade
       formats: Formatos
     visibility:
-      public: Público
-      unlisted: Não listado
+      public: Pública
+      unlisted: Não listada
     format:
       notes: Notas
       podcast: Podcast
